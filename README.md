@@ -1,2 +1,3 @@
 # test2
-red do A
+blue do B
+ master
